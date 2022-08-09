@@ -8,3 +8,6 @@ eigen-playground
 - [C++矩陣庫 Eigen 快速入門-软件开发平台及语言笔记大全(超详细)](https://www.cntofu.com/book/46/third-party/cju_zhen_ku_eigen_kuai_su_ru_men.md)
 - [Eigen/Geometry模块学习笔记_pla66的博客-CSDN博客](https://blog.csdn.net/guaaaaaaa/article/details/108275807)
 - [【Eigen】从入门到放弃（一）：Eigen是个什么鬼？ - 知乎](https://zhuanlan.zhihu.com/p/36706885)
+
+### Using
+- [dirkarnez/eigen-prebuilt](https://github.com/dirkarnez/eigen-prebuilt)
